@@ -2,7 +2,7 @@
 - 👀 I’m interested in: **Womens**
 - 🌱 I’m currently learning: **Magnetic induction and flux**
 - 💞️ I’m looking to collaborate on: **I can't colab with anyone my dad said no**😔
-- 📫 How to reach me: @rushikesh.5_9 on Instagram
+- 📫 How to reach me: @goswami_rushikesh on Instagram
 - 😄 Pronouns: **He/Him (obviously)**
 - ⚡ Fun fact: **I made a game on a f###ing pentium gen 2 laptop**
                **, Also most of my repos are also made on the same laptop**
