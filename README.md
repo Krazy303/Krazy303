@@ -18,7 +18,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  SKILL LEVEL: SmartKid                                   │
+│  SKILL LEVEL: SmartKid                                  │
 │  HARDWARE: Vintage™                                     │
 │  DETERMINATION: Unreasonable                            │
 │  BUG FIXES: Yes                                         │
