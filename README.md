@@ -18,11 +18,11 @@
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  SKILL LEVEL: Padawan                                   │
+│  SKILL LEVEL: SmartKid                                   │
 │  HARDWARE: Vintage™                                     │
 │  DETERMINATION: Unreasonable                            │
 │  BUG FIXES: Yes                                         │
-│  EXCUSES: Zero                                          │
+│  EXCUSES: i have pentium                                │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -70,7 +70,7 @@ I'm a firm believer that:
 ## 🎯 Currently Obsessing Over
 
 - Physics simulations that don't require RTX 4090
-- Making the internet work with 512MB of RAM (still possible, right?)
+- Making the internet work with 1024MiB of RAM (still possible, right?)
 - Writing the most optimized code humanly possible (or inhumanly, standards aren't real)
 - Proving that passion > processing power
 
@@ -86,4 +86,4 @@ Let's build something that'll either change the world or make a hilarious GitHub
 
 ---
 
-*"Why did the developer go broke? They kept throwing money at their tech stack when vibes and persistence were free." — Me, probably*
+*"Money can't buy Happiness? Just get an Pentium you will get it" — Me, probably*
