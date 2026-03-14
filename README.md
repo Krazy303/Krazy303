@@ -17,13 +17,13 @@
 ## 💪 Why You Should Care
 
 ```
-┌─────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────┐
 │  SKILL LEVEL: SmartKid                                  │
 │  HARDWARE: Vintage™                                     │
 │  DETERMINATION: Unreasonable                            │
 │  BUG FIXES: Yes                                         │
 │  EXCUSES: i have pentium                                │
-└─────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────┘
 ```
 
 **The Krazy Guarantee:**
